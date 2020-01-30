@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-red": "0.16.2",
+    "node-red": "1.0.3",
     "node-red-admin": "0.1.3"
   }
 }
