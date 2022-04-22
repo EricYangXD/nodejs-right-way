@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "4.15.3",
     "morgan": "1.8.2",
-    "nconf": "0.8.4",
+    "nconf": "0.11.4",
     "nodemon": "1.11.0",
     "request": "2.81.0",
     "request-promise": "4.2.1"
